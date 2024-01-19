@@ -1,0 +1,28 @@
+.btnn:hover{
+    background-color: rgb(140, 42, 7);
+}
+.btnn{
+    background-color: #e74307;
+     color: white; 
+     font-weight: bolder;
+     border: none;
+     padding: auto;
+}
+
+#emptyErrorMessage{
+    background-color: whitesmoke;
+    color: red;
+    outline: none;
+    border: none;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+#successMessage{
+    background-color: whitesmoke;
+    color: rgb(2, 126, 2);
+    outline: none;
+    border: none;
+    font-weight: bolder;
+    font-size: 20px;
+}
